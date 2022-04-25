@@ -1,2 +1,2 @@
-# debitnor.net #
+# https://debitnor.net #
 Debitnor.no generic page
